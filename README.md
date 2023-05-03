@@ -26,7 +26,7 @@
  * Teste3
 
  ou
-
+ 
  - Teste
  - Teste2
  - Teste3
@@ -34,7 +34,9 @@
  Lista de Tarefas:
  - [X] Criar a página principal
  - [X] Criar a página da loja
- - [] Finalizar a reunião
- - [] Receber pagamento
+ - [ ] Finalizar a reunião
+ - [ ] Receber pagamento
+
+ [Acesse meu GitHub](https://github.com/LeoVespe)
 
 
